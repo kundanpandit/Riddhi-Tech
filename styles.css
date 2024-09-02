@@ -10,7 +10,7 @@
   }
   
 .comp-logo{
-  margin-right: 800px;
+  margin-right: 700px;
   height: 50px;
   
 
@@ -39,11 +39,10 @@
   
   .navcontent li a, .dropbtn {
     color: rgb(255, 255, 255);
-    padding: 14px 20px;
+    padding: 15px 10px;
     text-decoration: none;
     display:block;
   }
-  
   .navcontent li a:hover, .dropdown:hover .dropbtn {
     background-color: white;
     color: rgb(26, 26, 94);
